@@ -1,5 +1,11 @@
 # README
 
+desired format recipesById => /recipes/recipesById
+
+bearer token => "secret"
+
+recipes/page/{pageNumber}
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
