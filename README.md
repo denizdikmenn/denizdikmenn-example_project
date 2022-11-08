@@ -6,6 +6,8 @@ bearer token => "secret"
 
 recipes/page/{pageNumber}
 
+seed example data by 'rails db:seed'
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
